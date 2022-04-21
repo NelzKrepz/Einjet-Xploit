@@ -1,9 +1,0 @@
-{
-	"executor_color":{
-		"tab":"#121212",
-		"menus":"#121212",
-		"panel":"#181818",
-		"fields":"#141414"
-	},
-	"text_highlight": "./highlighting/rbx_dark.xshd"
-}
