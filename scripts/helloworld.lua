@@ -1,0 +1,1 @@
+print("Hello world!"); -- Print "Hello world" to log.
