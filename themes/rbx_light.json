@@ -1,0 +1,14 @@
+{
+	"name":"Roblox Light",
+	"window_color":{
+		"tab":"#808080",
+		"menus":"#121212",
+		"panel":"#181818",
+		"fields":"#141414",
+		"text":"#fff",
+		"texthover":"#cccccc",
+		"button":"Transparent",
+		"buttonhover":"#323232",
+	},
+	"text_highlight": "./highlighting/rbx_dark.xshd"
+}
