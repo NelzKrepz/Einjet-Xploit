@@ -1,1 +1,0 @@
-print("Hello world!"); -- Print message "Hello world" to log.
